@@ -1,5 +1,7 @@
 # Google Maps API Scanner
-Used for determining whether a leaked/found Google Maps API Key is vulnerable to unauthorized access by other applications or not.  
+Used for determining whether a leaked/found Google Maps API Key is vulnerable to unauthorized access by other applications or not. 
+
+### NOTE: THIS FORK ONLY MAINTAINS THE Py3 VERSION
 
 ***[Blog Post #1 - Unauthorized Google Maps API Key Usage Cases, and Why You Need to Care](https://medium.com/bugbountywriteup/unauthorized-google-maps-api-key-usage-cases-and-why-you-need-to-care-1ccb28bf21e)***
 
